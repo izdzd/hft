@@ -1,0 +1,15 @@
+
+Oanda API:
+
+sample code:
+
+C:
+https://github.com/oanda/CAPISample/blob/master/APISample.c
+
+Perl:
+https://github.com/oanda/pl-api-streaming/blob/master/streaming.pl
+
+Python:
+https://github.com/oanda/py-api-trading/blob/master/api-order.py
+
+
